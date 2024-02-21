@@ -16,7 +16,9 @@ Current features
 # Installation
 
 - Clone the repo with  
- ```git clone https://gitlab.com/jordanahu/hostel-management.git```
+ ```config
+ git clone https://gitlab.com/jordanahu/hostel-management.git
+ ```
 
 
 - Create and activate a python virtual environment

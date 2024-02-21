@@ -15,8 +15,9 @@ Current features
 
 # Installation
 
-- Clone the repo with (https) `git clone https://gitlab.com/jordanahu/hostel-management.git`
-- Clone the repo with (ssh) `git clone git@gitlab.com:jordanahu/hostel-management.git`
+- Clone the repo with  
+- `git clone https://gitlab.com/jordanahu/hostel-management.git`
+
 
 - Create and activate a python virtual environment
 - `mkvirtualenv [name of virtual environment]`

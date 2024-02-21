@@ -16,15 +16,15 @@ Current features
 # Installation
 
 - Clone the repo with  
-- ```git clone https://gitlab.com/jordanahu/hostel-management.git```
+ ```git clone https://gitlab.com/jordanahu/hostel-management.git```
 
 
 - Create and activate a python virtual environment
-- ```mkvirtualenv [name of virtual environment]```
-- ```workon [name of virtual environment]```
+ ```mkvirtualenv [name of virtual environment]```
+ ```workon [name of virtual environment]```
 
 - Install Project Requirements
-- ```pip install -r requirements.txt```
+ ```pip install -r requirements.txt```
 
 - Create `.env` file inside the root directory and include the following variables
 ```config
@@ -35,11 +35,11 @@ DB_HOST=localhost
 DB_PORT=5432
 ```
 
-- ```python manage.py makemigrations```
+ ```python manage.py makemigrations```
 
-- ```python manage.py migrate```
+ ```python manage.py migrate```
 
-- ```python manage.py runserver```
+ ```python manage.py runserver```
 
 Last but not least, go to this address http://127.0.0.1:8000
 
